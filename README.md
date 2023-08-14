@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyash Kant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A life-long learner </h3>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" width="400" alt="codingImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyash-kant&label=Profile%20views&color=0e75b6&style=flat" alt="shreyash-kant" /> </p>
