@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning DSA and Fullstack devlopment.<br>
+Passionate tech enthusiast on a journey of continuous learning and growth. Currently diving deep into Data Structures and Algorithms for honing problem-solving skills, while also exploring the world of Full Stack Development to create immersive digital experiences. Eager to collaborate, innovate, and contribute to the ever-evolving tech landscape. Let's connect and code the future together!<br>
 
 
 ## 🌐 Socials:
@@ -33,11 +33,15 @@ I am currently learning DSA and Fullstack devlopment.<br>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="25" /></a>  
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-</div>  
+</div> 
+<br>
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Shreyash-kant&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyash-kant&theme=tokyonight&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash-kant&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyash-kant&theme=tokyonight&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shreyash-kant&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
